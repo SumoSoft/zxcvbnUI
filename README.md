@@ -1,4 +1,4 @@
-# A simple jQuery plugin that provides a nice UI to the zxcvbn password checker
+# A jQuery-based UI for the zxcvbn password checker
 
 ## Usage:
 
